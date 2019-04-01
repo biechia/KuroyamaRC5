@@ -2,7 +2,7 @@
 A simple RC5 bytes encryption wrapper.
 
 # How to use
-Don't forget to include `EncryptValue.`
+Don't forget to include `EncryptValue.h`
 **Initializing the Encryption**
 ```
 CEncrypt<int> Foo = new CEncrypt<int>(256);
