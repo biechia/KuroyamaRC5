@@ -1,4 +1,5 @@
 # KuroyamaRC5
+Can be used for Lost Saga game.
 A simple RC5 bytes encryption wrapper.
 
 # How to use
